@@ -1,2 +1,0 @@
-# EduBridge_n
-new
